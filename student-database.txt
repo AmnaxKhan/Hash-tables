@@ -97,4 +97,4 @@ Alessia Bianchi,Italy,Florence,F,3.7
 Hiroshi Sato,Japan,Tokyo,M,3.8
 Maria Hernandez,Mexico,Guadalajara,F,3.4
 Alexei Ivanov,Russia,Moscow,M,3.9
-Lee Chen,China,Shanghai,F,3.6
+Amna Chen,Pakistan,Shanghai,F,3.6
